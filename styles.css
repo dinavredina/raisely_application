@@ -1,0 +1,39 @@
+
+.profile {
+	background: url('dg.jpg') top left no-repeat;
+	background-size: cover;
+	background-position: center center;
+	min-height: 300px;
+	margin-bottom: 20px;
+}
+i {
+	color:rgb(15, 131, 87);
+}
+a {
+	color: rgb(15, 131, 87);
+}
+a:hover {
+	color: rgb(15, 131, 87);
+}
+footer {
+	margin-top: 20px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+  }
+li {
+	padding-left: 1.3em;
+	line-height: 2em;
+  }
+li:before {
+	color:rgb(15, 131, 87);
+	content: "\f058"; 
+	font-family: "Font Awesome 5 Free";
+	font-weight: 900;
+	display: inline-block;
+	margin-left: -1.3em;
+	margin-right: 1.3em;
+	width: 1.3em;
+  }
